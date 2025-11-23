@@ -10,15 +10,52 @@
 
 </div>
 
-<!-- CONTACT BADGES CENTERED (FLAT – NO BLUE DOT) -->
+<!-- CUSTOM BADGES CENTERED -->
 <p align="center" style="margin-top: 10px;">
 
+  <!-- LinkedIn badge -->
   <a href="https://www.linkedin.com/in/harshith-atla-5a0318280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Harshith%20Atla-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <svg xmlns="http://www.w3.org/2000/svg" width="260" height="30" role="img" aria-label="LinkedIn: Harshith Atla">
+      <!-- full pill background -->
+      <rect width="260" height="30" fill="#0A66C2" rx="6" ry="6" />
+      <!-- left label block -->
+      <rect width="95" height="30" fill="#555555" rx="6" ry="6" />
+      <!-- text -->
+      <text x="47.5" y="19" fill="#ffffff" text-anchor="middle"
+            font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="12" font-weight="600">
+        LINKEDIN
+      </text>
+      <text x="177.5" y="19" fill="#ffffff" text-anchor="middle"
+            font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="12" font-weight="600">
+        HARSHITH ATLA
+      </text>
+    </svg>
   </a>
 
-  <a href="mailto:harshithatla2@gmail.com" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Email-harshithatla2%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  <!-- spacing between badges -->
+  <span style="display:inline-block; width: 12px;"></span>
+
+  <!-- Email badge -->
+  <a href="mailto:harshithatla2@gmail.com">
+    <svg xmlns="http://www.w3.org/2000/svg" width="360" height="30" role="img" aria-label="Email: harshithatla2@gmail.com">
+      <!-- full pill background -->
+      <rect width="360" height="30" fill="#D14836" rx="6" ry="6" />
+      <!-- left label block -->
+      <rect width="90" height="30" fill="#555555" rx="6" ry="6" />
+      <!-- text -->
+      <text x="45" y="19" fill="#ffffff" text-anchor="middle"
+            font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="12" font-weight="600">
+        EMAIL
+      </text>
+      <text x="225" y="19" fill="#ffffff" text-anchor="middle"
+            font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+            font-size="12" font-weight="600">
+        HARSHITHATLA2@GMAIL.COM
+      </text>
+    </svg>
   </a>
 
 </p>
@@ -27,7 +64,6 @@
 <p align="center" style="margin-top: 5px;">
   <img src="https://komarev.com/ghpvc/?username=Harshithatla&color=blueviolet&style=social" alt="Profile views" />
 </p>
-
 
 ---
 
