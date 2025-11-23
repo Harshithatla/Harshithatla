@@ -1,26 +1,16 @@
 <!-- Header -->
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=22&pause=1000&color=F7F7F7&background=2D2D2D&center=true&vCenter=true&width=600&height=100&lines=class+Harshith(DataScientist):;++++def+__init__(self):;++++++++self.passion+%3D+%22HPC+%2B+AI%22" alt="Python Code Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F700FF,100:00D2FF&height=180&section=header&text=Harshith%20Santosh%20Sathya%20Sai%20Atla&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20HPC&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 
-  <h1 align="center">Harshith Santosh Sathya Sai Atla</h1>
+  <br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Masters+Student+in+Data+Science+@+UMass+Dartmouth;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;High+Performance+Computing+(MPI%2FOpenMP);Actively+Building+AI+Projects+and+Portfolios" />
+
+  <br/>
   
-  <p align="center">
-    <a href="https://www.linkedin.com/in/harshith-atla-5a0318280/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:harshithatla2@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/Harshithatla?tab=repositories">
-      <img src="https://img.shields.io/badge/Repos-View_Projects-24292e?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-
-  <h3 align="center">
-    Master's Student @ UMass Dartmouth <br>
-    Specializing in Deep Learning & Distributed Computing
-  </h3>
+  <img src="https://komarev.com/ghpvc/?username=Harshithatla&color=ff00ff&style=for-the-badge" alt="Profile views" />
+  
 </div>
 
 ---
