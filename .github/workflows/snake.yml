@@ -2,42 +2,32 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # daily
   workflow_dispatch:
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake.svg
-        uses: Platane/snk@v3
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Harshithatla
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
 
-      - name: Upload generated snake.svg as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: dist/snake.svg
-
-  deploy-snake:
-    needs: generate-snake
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Download generated artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: snake
-
-      - name: Deploy snake.svg to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
-          publish_branch: output
+      - name: Commit snake.svg to main branch
+        run: |
+          mkdir -p .github/snake
+          cp dist/snake.svg .github/snake/snake.svg
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .github/snake/snake.svg
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
