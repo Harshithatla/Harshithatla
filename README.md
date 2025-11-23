@@ -5,27 +5,26 @@
   <h3>Data Scientist | AI & ML Enthusiast | Generative AI & RAG</h3>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs;High+Performance+Computing+(MPI%2FOpenMP);Actively+Building+AI+Projects+and+Portfolios" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Actively+Building+AI+Projects+and+Portfolios" />
   </p>
 
 </div>
 
-<!-- BADGES CENTERED (FLAT STYLE = NO BLUE DOT EVER) -->
-<p align="center">
+<!-- CONTACT BADGES CENTERED (FLAT – NO BLUE DOT) -->
+<p align="center" style="margin-top: 10px;">
 
   <a href="https://www.linkedin.com/in/harshith-atla-5a0318280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Harshith%20Atla-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:harshithatla2@gmail.com">
+  <a href="mailto:harshithatla2@gmail.com" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Email-harshithatla2%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 
 </p>
 
-
 <!-- PROFILE VIEWS CENTERED -->
-<p align="center">
+<p align="center" style="margin-top: 5px;">
   <img src="https://komarev.com/ghpvc/?username=Harshithatla&color=blueviolet&style=social" alt="Profile views" />
 </p>
 
