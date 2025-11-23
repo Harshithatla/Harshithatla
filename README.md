@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=220&section=header&text=Harshith%20Santosh%20Sathya%20Sai%20Atla&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.S.%20Data%20Science%20%40%20UMass%20Dartmouth&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 
-  <h3 align="center">Data Scientist | AI & ML Enthusiast | HPC & Distributed Computing</h3>
+  <h3 align="center">Data Scientist | AI & ML Enthusiast | Generative AI & RAG</h3>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs;High+Performance+Computing+(MPI%2FOpenMP);Actively+Building+AI+Projects+and+Portfolios" />
@@ -11,6 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=Harshithatla&color=blueviolet&style=social" alt="Profile views" />
 
 </div>
+
 
 ---
 
