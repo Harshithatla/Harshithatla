@@ -1,7 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=220&section=header&text=Harshith%20Santosh%20Sathya%20Sai%20Atla&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Generative%20AI%20%26%20Deep%20Learning&descSize=18&descAlign=50&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Harshith%20Atla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20%26%20Deep%20Learning&descSize=20&descAlign=50&descAlignY=62" width="100%" />
 
+  <h3 align="center">Harshith Santosh Sathya Sai Atla</h3>
+  
   <h3 align="center">HPC & Distributed Computing | AI & ML Enthusiast</h3>
 
   <p align="center">
