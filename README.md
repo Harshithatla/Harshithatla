@@ -23,12 +23,15 @@
 
 </p>
 
+
 <!-- PROFILE VIEWS CENTERED -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshithatla&color=blueviolet&style=social" alt="Profile views" />
 </p>
 
+
 ---
+
 
 
 ## 🚀 About Me
