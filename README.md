@@ -13,11 +13,11 @@
 <!-- ONLY BADGES CENTERED -->
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/harshith-atla-5a0318280/" target="_blank" style="outline: none; border: none;">
+  <a href="https://www.linkedin.com/in/harshith-atla-5a0318280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Harshith%20Atla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:harshithatla2@gmail.com" style="outline: none; border: none;">
+  <a href="mailto:harshithatla2@gmail.com">
     <img src="https://img.shields.io/badge/Email-harshithatla2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -29,6 +29,7 @@
 </p>
 
 ---
+
 
 ## 🚀 About Me
 
