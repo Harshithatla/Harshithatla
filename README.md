@@ -1,17 +1,23 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm <strong>Harshith Santosh Sathya Sai Atla</strong></h1>
-<h3 align="center">Data Scientist | AI & ML Enthusiast | HPC & Distributed Computing</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Harshith%20Atla&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Architecting%20AI%20Solutions%20%7C%20HPC%20Engineer&descSize=20&descAlign=50&descAlignY=65" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300A1FF&size=24&center=true&vCenter=true&width=700&lines=Masters+Student+in+Data+Science+@+UMass+Dartmouth;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;High+Performance+Computing+(MPI%2FOpenMP);Actively+Building+AI+Projects+and+Portfolios" />
-</p>
+  <br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=20&duration=3000&pause=1000&color=302b63&center=true&vCenter=true&width=500&lines=Training+Neural+Networks...;Optimizing+MPI+Pipelines...;Analyzing+Big+Data+with+R..." />
+
+  <br/>
+
+  <a href="https://www.linkedin.com/in/harshith-atla-5a0318280/">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshith%20Atla-blue?style=social&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:harshithatla2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harshithatla2%40gmail.com-red?style=social&logo=gmail" />
+  </a>
+</div>
 
 ---
-
-<p align="center">
-  <!-- Profile views badge -->
-  <img src="https://komarev.com/ghpvc/?username=Harshithatla&color=blue&style=flat" alt="Profile views" />
-</p>
 
 ## 🚀 About Me
 
