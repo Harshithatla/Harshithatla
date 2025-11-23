@@ -2,68 +2,15 @@
 
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=220&section=header&text=Harshith%20Santosh%20Sathya%20Sai%20Atla&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.S.%20Data%20Science%20%40%20UMass%20Dartmouth&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 
-  <h3>Data Scientist | AI & ML Enthusiast | Generative AI & RAG</h3>
+  <h3 align="center">Data Scientist | AI & ML Enthusiast | Generative AI & RAG</h3>
 
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Actively+Building+AI+Projects+and+Portfolios" />
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs;High+Performance+Computing+(MPI%2FOpenMP);Actively+Building+AI+Projects+and+Portfolios" />
   </p>
 
-</div>
-
-<!-- CUSTOM BADGES CENTERED -->
-<p align="center" style="margin-top: 10px;">
-
-  <!-- LinkedIn badge -->
-  <a href="https://www.linkedin.com/in/harshith-atla-5a0318280/" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="260" height="30" role="img" aria-label="LinkedIn: Harshith Atla">
-      <!-- full pill background -->
-      <rect width="260" height="30" fill="#0A66C2" rx="6" ry="6" />
-      <!-- left label block -->
-      <rect width="95" height="30" fill="#555555" rx="6" ry="6" />
-      <!-- text -->
-      <text x="47.5" y="19" fill="#ffffff" text-anchor="middle"
-            font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-            font-size="12" font-weight="600">
-        LINKEDIN
-      </text>
-      <text x="177.5" y="19" fill="#ffffff" text-anchor="middle"
-            font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-            font-size="12" font-weight="600">
-        HARSHITH ATLA
-      </text>
-    </svg>
-  </a>
-
-  <!-- spacing between badges -->
-  <span style="display:inline-block; width: 12px;"></span>
-
-  <!-- Email badge -->
-  <a href="mailto:harshithatla2@gmail.com">
-    <svg xmlns="http://www.w3.org/2000/svg" width="360" height="30" role="img" aria-label="Email: harshithatla2@gmail.com">
-      <!-- full pill background -->
-      <rect width="360" height="30" fill="#D14836" rx="6" ry="6" />
-      <!-- left label block -->
-      <rect width="90" height="30" fill="#555555" rx="6" ry="6" />
-      <!-- text -->
-      <text x="45" y="19" fill="#ffffff" text-anchor="middle"
-            font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-            font-size="12" font-weight="600">
-        EMAIL
-      </text>
-      <text x="225" y="19" fill="#ffffff" text-anchor="middle"
-            font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-            font-size="12" font-weight="600">
-        HARSHITHATLA2@GMAIL.COM
-      </text>
-    </svg>
-  </a>
-
-</p>
-
-<!-- PROFILE VIEWS CENTERED -->
-<p align="center" style="margin-top: 5px;">
   <img src="https://komarev.com/ghpvc/?username=Harshithatla&color=blueviolet&style=social" alt="Profile views" />
-</p>
+
+</div>
 
 ---
 
