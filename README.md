@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=220&section=header&text=Harshith%20Santosh%20Sathya%20Sai%20Atla&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.S.%20Data%20Science%20%40%20UMass%20Dartmouth&descSize=20&descAlign=50&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=220&section=header&text=Harshith%20Santosh%20Sathya%20Sai%20Sai%20Atla&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.S.%20Data%20Science%20%40%20UMass%20Dartmouth&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 
   <h3 align="center">Data Scientist | AI & ML Enthusiast | Generative AI & RAG</h3>
 
@@ -8,16 +8,18 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs;High+Performance+Computing+(MPI%2FOpenMP);Actively+Building+AI+Projects+and+Portfolios" />
   </p>
 
+  <!-- CENTERED CONTACT BADGES -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/harshith-atla-5a0318280/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Harshith%20Atla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+
+    <a href="mailto:harshithatla2@gmail.com">
+      <img src="https://img.shields.io/badge/Email-harshithatla2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
 </div>
-
-<!-- LEFT-ALIGNED CONTACT BADGES (not centered) -->
-<a href="https://www.linkedin.com/in/harshith-atla-5a0318280/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Harshith%20Atla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:harshithatla2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-harshithatla2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 ---
 
