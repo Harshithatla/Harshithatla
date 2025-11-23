@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=poly&color=0:ff9966,100:ff5e62&height=200&section=header&text=Harshith%20Atla&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Deep%20Learning%20%7C%20HPC%20Architecture&descSize=20&descAlign=50&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=220&section=header&text=Harshith%20Santosh%20Sathya%20Sai%20Atla&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.S.%20Data%20Science%20%40%20UMass%20Dartmouth&descSize=20&descAlign=50&descAlignY=60" width="100%" />
 
-  <br/>
+  <h3 align="center">Data Scientist | AI & ML Enthusiast | HPC & Distributed Computing</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5E62&center=true&vCenter=true&width=700&lines=Masters+Student+in+Data+Science+@+UMass+Dartmouth;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;High+Performance+Computing+(MPI%2FOpenMP);Actively+Building+AI+Projects+and+Portfolios" />
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs;High+Performance+Computing+(MPI%2FOpenMP);Actively+Building+AI+Projects+and+Portfolios" />
+  </p>
 
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Harshithatla&color=orange&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Harshithatla&color=blueviolet&style=social" alt="Profile views" />
 
 </div>
 
