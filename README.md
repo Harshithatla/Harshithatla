@@ -1,20 +1,26 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Harshith%20Atla&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Architecting%20AI%20Solutions%20%7C%20HPC%20Engineer&descSize=20&descAlign=50&descAlignY=65" width="100%" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=22&pause=1000&color=F7F7F7&background=2D2D2D&center=true&vCenter=true&width=600&height=100&lines=class+Harshith(DataScientist):;++++def+__init__(self):;++++++++self.passion+%3D+%22HPC+%2B+AI%22" alt="Python Code Animation" />
 
-  <br/>
+  <h1 align="center">Harshith Santosh Sathya Sai Atla</h1>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/harshith-atla-5a0318280/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:harshithatla2@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/Harshithatla?tab=repositories">
+      <img src="https://img.shields.io/badge/Repos-View_Projects-24292e?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=20&duration=3000&pause=1000&color=302b63&center=true&vCenter=true&width=500&lines=Training+Neural+Networks...;Optimizing+MPI+Pipelines...;Analyzing+Big+Data+with+R..." />
-
-  <br/>
-
-  <a href="https://www.linkedin.com/in/harshith-atla-5a0318280/">
-    <img src="https://img.shields.io/badge/LinkedIn-Harshith%20Atla-blue?style=social&logo=linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:harshithatla2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harshithatla2%40gmail.com-red?style=social&logo=gmail" />
-  </a>
+  <h3 align="center">
+    Master's Student @ UMass Dartmouth <br>
+    Specializing in Deep Learning & Distributed Computing
+  </h3>
 </div>
 
 ---
