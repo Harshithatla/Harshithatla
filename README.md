@@ -3,7 +3,7 @@
 <h3 align="center">Data Scientist | AI & ML Enthusiast | HPC & Distributed Computing</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300A1FF&size=24&center=true&vCenter=true&width=700&lines=Master's+Student+in+Data+Science+@+UMass+Dartmouth;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;High+Performance+Computing+(MPI%2FOpenMP);Actively+Building+AI+Projects+and+Portfolios" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300A1FF&size=24&center=true&vCenter=true&width=700&lines=Masters+Student+in+Data+Science+@+UMass+Dartmouth;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;High+Performance+Computing+(MPI%2FOpenMP);Actively+Building+AI+Projects+and+Portfolios" />
 </p>
 
 ---
