@@ -10,10 +10,10 @@
 
 </div>
 
-<!-- ONLY BADGES CENTERED (WITH BLUE DOT FIX) -->
+<!-- ONLY BADGES CENTERED (WITH BLUE PIXEL FIX) -->
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/harshith-atla-5a0318280/" target="_blank" style="outline:none; border:none; margin-right:6px;">
+  <a href="https://www.linkedin.com/in/harshith-atla-5a0318280/" target="_blank" style="outline:none; border:none; margin-right:12px;">
     <img src="https://img.shields.io/badge/LinkedIn-Harshith%20Atla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
