@@ -8,6 +8,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs;High+Performance+Computing+(MPI%2FOpenMP);Actively+Building+AI+Projects+and+Portfolios" />
   </p>
 
+  <!-- Contact section -->
+  <p align="center">
+    <b>LinkedIn:</b>
+    <a href="https://www.linkedin.com/in/harshith-atla-5a0318280/" target="_blank">
+      https://www.linkedin.com/in/harshith-atla-5a0318280/
+    </a>
+    &nbsp;|&nbsp;
+    <b>Gmail:</b>
+    <a href="mailto:harshithatla2@gmail.com">harshithatla2@gmail.com</a>
+  </p>
+
   <img src="https://komarev.com/ghpvc/?username=Harshithatla&color=blueviolet&style=social" alt="Profile views" />
 
 </div>
